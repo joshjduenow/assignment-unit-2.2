@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have a variable called name and it is given the value of Dane.
+// We the check if the name is equal to the name Mary. If it is equal to Mary,
+// we would console log Hi, Mary! We have an Else set that if the name is not Mary
+//we console log How do you do? So, because the name does not equal Mary, we console log How do you do?
 
 //CODE
 /*
