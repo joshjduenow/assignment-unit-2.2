@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have isStudent variable with a value of true, and age variable with the value of 34 and a zip variable with a value of 55407.
+// We have an if statement that stating that if isStudent is true and zip is greater than 80000 'You're a student on the West Coast!' is logged. That's not
+// true, so it won't be logged. We have an else if stating that if isStudent is false OR the age is less than 30 'What are your hobbies will be logged. That
+// is also not true. We have another else if that isStudent true 'Welcome to Prime!' will be logged, which is what will be seen in the console. The else will
+// of 'How about the weather?' will not show in the console.
 
 //CODE
 /*
@@ -129,15 +130,15 @@ if (number >= 2) {
 // colorTwo is set to 'red', and mix is set to true. We check if mix is true 
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
-/*
+/* // change colorOne to 'blue' and colorTwo to 'red' per the instructions.
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
-
+// colorTwo should also be set to 'purple'
 if (mix === true) {
   colorOne = 'purple';
 }
-*/
+*/ //we should console.log('purple');
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
 // We check if temp is higher than 39 and if time is greater or equal to  4 
@@ -146,7 +147,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+// our if should show && instead of the || for it to be true.
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
