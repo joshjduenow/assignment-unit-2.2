@@ -157,10 +157,10 @@ if (temp > 39 || time >= 4) {
 // We check if age is greater than or equal to minAge 
 // -- it is, so we console.log 'enter'.
 
-/*
+/* // minAge shouldn't be a const as it would not allow the code to run properly.
 let age = 21;
 const minAge = 21;
-
+// need a space after the if. Also, the console.logs need to be swapped if we want the correct log in the console per the instructions.
 if(minAge <= age) {
   console.log('no entry');
 } else {
