@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We have a variable of secret and a variable of code. Code having a value of 123. In our first if, we check if the code is exactly equal to 123.
+// Since it is, secret would console log as super and the code, 123, would multiply by 2. Then, we look at the second if and see that if the code is greater
+// than 250 it would log at duper. Since this is not true, it would not log duper. So, we console log secret and see super 246 in the log.
 //
 
 //CODE
